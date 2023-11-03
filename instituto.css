@@ -1,0 +1,41 @@
+.encabezado{
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+.frase{
+    width: 200px;
+    height: 100px;
+    border: 2px solid goldenrod;
+    background-color: crimson;
+    font-family: 'Times New Roman';
+}
+
+.Ingles{
+    width: 200px;
+    height: 100px;
+    clip-path: circle(50% at 50%  50%);
+    text-align: center;
+    border: 2px solid goldenrod;
+    background-color: crimson;
+    font-family: 'Times New Roman';
+    color: goldenrod;
+}
+
+.Software{
+    background-color: rgb(17, 12, 92);
+    font-family: sans-serif;
+    color: aliceblue;
+    width: 200px;
+    height: 100px;
+    border: 2px solid gainsboro;
+}
+
+.pymes{
+    background-color: rgb(216, 11, 172);
+    font-family: sans-serif;
+    color: aliceblue;
+    width: 200px;
+    height: 100px;
+    border: 2px solid gainsboro;
+}
